@@ -1,0 +1,13 @@
+{
+    "description": "Hi, friends. This is my first created logo with the help of MS painter 😂 . So I convert it to my first NFT 😉 ",  
+    "image": "https://ipfs.filebase.io/ipfs/Qmcph3eKwk3a9iNHqeo8f9a6JSbFnT9GUeYimDU4epKCXo", 
+    "external_url": "https://github.com/aakashms/myfirstNFTsmartContract",
+    "name": "Creature Home",
+    "attributes": [ 
+        {"traits_type": "created_time" ,
+            "value" : "Time : 26 june 2020"} ,
+          
+            {"traits_type": "created_location" ,
+            "value" : "TamilNadu , India"}
+    ]
+  }
